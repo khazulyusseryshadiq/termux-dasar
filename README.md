@@ -1,0 +1,2 @@
+# termux-dasar
+PERINTAH DASAR TERMUX
